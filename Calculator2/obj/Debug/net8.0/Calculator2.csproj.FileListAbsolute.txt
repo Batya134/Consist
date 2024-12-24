@@ -1,0 +1,14 @@
+D:\Frontend-development\Consist\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Frontend-development\Consist\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.AssemblyInfoInputs.cache
+D:\Frontend-development\Consist\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.AssemblyInfo.cs
+D:\Frontend-development\Consist\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.csproj.CoreCompileInputs.cache
+D:\Frontend-development\Consist\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.exe
+D:\Frontend-development\Consist\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.deps.json
+D:\Frontend-development\Consist\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.runtimeconfig.json
+D:\Frontend-development\Consist\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.dll
+D:\Frontend-development\Consist\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.pdb
+D:\Frontend-development\Consist\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.dll
+D:\Frontend-development\Consist\Calculator2\Calculator2\obj\Debug\net8.0\refint\Calculator2.dll
+D:\Frontend-development\Consist\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.pdb
+D:\Frontend-development\Consist\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.genruntimeconfig.cache
+D:\Frontend-development\Consist\Calculator2\Calculator2\obj\Debug\net8.0\ref\Calculator2.dll
